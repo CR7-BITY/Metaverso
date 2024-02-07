@@ -1,0 +1,258 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.degradado{
+    background: rgb(248,108,248);
+    background: linear-gradient(90deg, rgba(248,108,248,1) 0%, rgba(0,180,236,1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.parrafo{
+    font-family: Poppins;
+    color: #FFFFFFCC;
+}
+.boton1{
+    border-radius: 0.2rem;
+    padding: 0.2rem 2rem;
+    text-decoration: none;
+    color: white;
+    background: rgb(209,14,209);
+    background: linear-gradient(90deg, rgba(209,14,209,1) 0%, rgba(16,163,218,1) 100%);
+}
+.boton1:hover{
+    transition: 0.5s;
+    transform: translateY(-5px);
+}
+.get{
+    font-family: Poppins;
+    font-size: 1rem;
+}
+@media screen and (max-width:360px) {
+    .get{
+        font-size: 0.7rem;
+    }
+}
+
+.boton2{
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-image: linear-gradient(90deg, rgba(209,14,209,1) 0%, rgba(16,163,218,1) 100%) 1;
+}
+.boton2:hover{
+    transition: 0.5s;
+    transform: translateY(-5px);
+}
+.get2{
+    font-family: Poppins;
+    font-size: 1rem;
+}
+@media screen and (max-width:360px) {
+    .get2{
+        font-size: 0.8rem;
+    }
+}
+.mujer{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+@media screen and (max-width:360px) {
+    .mujer{
+        width: 70%;
+        height: 13rem;
+        left: 2rem;
+    }
+}
+.estrellas{
+    position: absolute;
+    right: 35rem;
+    top: 13rem;
+}
+.k1{
+    margin: 0%;
+}
+    @media screen and (max-width:360px) {
+        .k1{
+            width: 10%;
+            height: auto;
+            top: 6rem;
+            left: 6rem;
+        }
+    }
+.k2{
+    margin: 0%;
+}
+    @media screen and (max-width:360px) {
+        .k2{
+            width: 10%;
+            height: auto;
+            top: 11rem;
+            left: 1.5rem;
+        }
+    }
+.k3{
+    margin: 0%;
+}
+@media screen and (max-width:360px) {
+    .k3{
+        width: 10%;
+        height: auto;
+        top: 9rem;
+        left: 18rem;
+    }
+}
+.cuadro-2{
+}
+@media screen and (max-width:360px) {
+    .cuadro-2{
+        padding: 0%;
+    }
+}
+.imagen-2{
+    width: auto;
+    height: 85%;  
+}
+.parrafo-2{
+    font-family: Poppins;
+    width: 80%;
+}
+@media screen and (max-width:360px) {
+    .parrafo-2{
+        width: 80%;
+        font-size: 0.8rem;
+        color: #FFFFFFCC;
+    }
+}
+.degradado-2{
+    background: rgb(248,108,248);
+    background: linear-gradient(90deg, rgba(248,108,248,1) 0%, rgba(0,180,236,1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.boton3{
+    border-radius: 0.2rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: white;
+    background: rgb(209,14,209);
+    background: linear-gradient(90deg, rgba(209,14,209,1) 0%, rgba(16,163,218,1) 100%);
+}
+.boton3:hover{
+    transition: 0.5s;
+    transform: translateY(-5px);
+}
+
+.tema{
+    width: 50%;
+}
+@media screen and (max-width:360px) {
+    .tema{
+        width: 100%;
+    }
+}
+.degradado-3{
+    background: rgb(248,108,248);
+    background: linear-gradient(90deg, rgba(248,108,248,1) 0%, rgba(100,206,245,1) 50%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.bloque{
+    padding-left: 22rem;
+    padding-right: 22rem;
+}
+    @media screen and (max-width:360px) {
+        .bloque{
+            padding-left: 0rem;
+            padding-right: 0rem;
+            width: 90%;
+        }
+    }
+
+.parrafo-3{
+    font-family: poppins;
+    padding: 0%;
+    color:#FFFFFFCC;
+}
+@media screen and (max-width:360px) {
+    .parrafo-3{
+        width: 100%;
+    }
+}
+
+.fondo{
+    background: #090823;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+.tit-1{
+    margin: 0;
+}
+@media screen and (max-width:360px) {
+    .tit-1{
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+}
+.parrafo-4{
+    font-family: poppins;
+    width: 95%;
+    margin: 0;
+    color: #FFFFFFCC;
+}
+@media screen and (max-width:360px) {
+    .parrafo-4{
+        font-size: 0.7rem;
+    }
+}
+.tit-2{
+    margin: 0%;
+}
+@media screen and (max-width:360px) {
+    .tit-2{
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+}
+.tit-3{
+    margin: 0%;
+}
+@media screen and (max-width:360px) {
+    .tit-3{
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+}
+.boton4{
+    border-radius: 0.2rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: white;
+    background: rgb(209,14,209);
+    background: linear-gradient(90deg, rgba(209,14,209,1) 0%, rgba(16,163,218,1) 100%);
+}
+.boton5{
+    padding: 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-image: linear-gradient(90deg, rgba(209,14,209,1) 0%, rgba(16,163,218,1) 100%) 1;
+}
+
+footer{
+    background-color: #090823;
+}
+.negrilla{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.degradado-4{
+    background: linear-gradient(90deg, rgba(248, 108, 248, 1) 0%, rgba(100, 206, 245, 1) 30%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
